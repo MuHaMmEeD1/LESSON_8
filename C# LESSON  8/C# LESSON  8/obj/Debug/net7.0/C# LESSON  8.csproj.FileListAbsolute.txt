@@ -1,0 +1,15 @@
+C:\Users\AzComp\source\repos\C# LESSON  8\C# LESSON  8\bin\Debug\net7.0\C# LESSON  8.exe
+C:\Users\AzComp\source\repos\C# LESSON  8\C# LESSON  8\bin\Debug\net7.0\C# LESSON  8.deps.json
+C:\Users\AzComp\source\repos\C# LESSON  8\C# LESSON  8\bin\Debug\net7.0\C# LESSON  8.runtimeconfig.json
+C:\Users\AzComp\source\repos\C# LESSON  8\C# LESSON  8\bin\Debug\net7.0\C# LESSON  8.dll
+C:\Users\AzComp\source\repos\C# LESSON  8\C# LESSON  8\bin\Debug\net7.0\C# LESSON  8.pdb
+C:\Users\AzComp\source\repos\C# LESSON  8\C# LESSON  8\obj\Debug\net7.0\C# LESSON  8.csproj.AssemblyReference.cache
+C:\Users\AzComp\source\repos\C# LESSON  8\C# LESSON  8\obj\Debug\net7.0\C# LESSON  8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzComp\source\repos\C# LESSON  8\C# LESSON  8\obj\Debug\net7.0\C# LESSON  8.AssemblyInfoInputs.cache
+C:\Users\AzComp\source\repos\C# LESSON  8\C# LESSON  8\obj\Debug\net7.0\C# LESSON  8.AssemblyInfo.cs
+C:\Users\AzComp\source\repos\C# LESSON  8\C# LESSON  8\obj\Debug\net7.0\C# LESSON  8.csproj.CoreCompileInputs.cache
+C:\Users\AzComp\source\repos\C# LESSON  8\C# LESSON  8\obj\Debug\net7.0\C# LESSON  8.dll
+C:\Users\AzComp\source\repos\C# LESSON  8\C# LESSON  8\obj\Debug\net7.0\refint\C# LESSON  8.dll
+C:\Users\AzComp\source\repos\C# LESSON  8\C# LESSON  8\obj\Debug\net7.0\C# LESSON  8.pdb
+C:\Users\AzComp\source\repos\C# LESSON  8\C# LESSON  8\obj\Debug\net7.0\C# LESSON  8.genruntimeconfig.cache
+C:\Users\AzComp\source\repos\C# LESSON  8\C# LESSON  8\obj\Debug\net7.0\ref\C# LESSON  8.dll
